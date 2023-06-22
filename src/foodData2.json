@@ -1,0 +1,669 @@
+[
+    {
+        "CategoryName": "Tea",
+        "name": "Tea",
+        "img": "https://media.istockphoto.com/id/1358132613/photo/refreshing-hot-cup-of-coffee-at-a-cafe.jpg?b=1&s=170667a&w=0&k=20&c=yWCgrKacdKBjpwTStBv8IBnMjuIECKUTfuCtkAfyMlc=",
+        "price": 10
+    },
+    {
+        "CategoryName": "Tea",
+        "name": "Nes Coffee",
+        "img": "https://media.istockphoto.com/id/1366073933/photo/coffee-hot-in-white-cup-isolated-space-for-your-text-greek-nescafe.jpg?b=1&s=170667a&w=0&k=20&c=3mGNKI2CvQzGnX1OuYjhTqR5g9HiR_rqIBKscJ-EG88=https://media.istockphoto.com/id/1366073933/photo/coffee-hot-in-white-cup-isolated-space-for-your-text-greek-nescafe.jpg?b=1&s=170667a&w=0&k=20&c=3mGNKI2CvQzGnX1OuYjhTqR5g9HiR_rqIBKscJ-EG88=",
+        "price": 15
+    },
+    {
+        "CategoryName": "Tea",
+        "name": "Lemon Tea",
+        "img": "https://media.istockphoto.com/id/1140913987/photo/a-photo-of-a-cup-of-green-tea-with-lemon-and-honey-with-a-place-for-text.jpg?b=1&s=170667a&w=0&k=20&c=WoLFGvSXxRrEhyMZNtadCVypCLnOqoNE5w_L6k7iGys=",
+        "price": 15
+    },
+    {
+        "CategoryName": "Tea",
+        "name": "Masala Tea",
+        "img": "https://media.istockphoto.com/id/614533094/photo/indian-masala-chai-tea.jpg?b=1&s=170667a&w=0&k=20&c=kK7SwuMBjyK0MgldmwqgW5phnRF_qoaEYwAMb2rUHJg=",
+        "price": 20
+    },
+    {
+        "CategoryName": "Tea",
+        "name": "Black Tea",
+        "img": "https://media.istockphoto.com/id/475614605/photo/black-tea-in-a-cup.jpg?b=1&s=170667a&w=0&k=20&c=OhJsaumxNUM_R7xfZ7thyE2qCmLyjybM-m_CWXirQrA=",
+        "price": 10
+    },
+    {
+        "CategoryName": "Tea",
+        "name": "Cold Coffee",
+        "img": "https://media.istockphoto.com/id/497863160/photo/iced-coffee-in-takeaway-cup.jpg?b=1&s=170667a&w=0&k=20&c=vMEJtmdkGIeTNtx7Nd71L-G7aSYJkH1JHhW5nVBMul8=",
+        "price": 30
+    },
+
+    
+    {
+        "CategoryName": "Lunch",
+        "name": "Veg Thali",
+        "img": "https://media.istockphoto.com/id/1319450405/photo/indian-veg-meal-menu-stock-image.jpg?b=1&s=170667a&w=0&k=20&c=yeBJqDzB8cyRkkFOkXBKbIpy_dlHWikEjWFwCIDZDDM=",
+        "price": 50
+    },
+    {
+        "CategoryName": "Lunch",
+        "name": "Dal Rice",
+        "img": "https://media.istockphoto.com/id/1383955774/photo/macro-closeup-of-orange-curry-healthy-coconut-squash-dal-indian-yellow-split-peas-sauce-food.jpg?b=1&s=170667a&w=0&k=20&c=lC7-6_y_xorF0afxgB6QtupyfOexJNjGiLsUe3ttExM=",
+        "price": 30
+    },
+    {
+        "CategoryName": "Lunch",
+        "name": "Puri Bhaji",
+        "img": "https://media.istockphoto.com/id/979034950/photo/chatpate-masala-aloo-sabzi-fry-or-bombay-potatoes-served-with-fried-puri-or-indian-bread-made.jpg?b=1&s=170667a&w=0&k=20&c=IE-60RPYpAXmoprDvElUn2tY7aJ6XNFvyO3rNl54osg=",
+        "price": 35
+    },
+    {
+        "CategoryName": "Lunch",
+        "name": "Chapati Bhaji",
+        "img": "https://media.istockphoto.com/id/1266096763/photo/vegetarian-food-thali-or-platter-from-maharashtra-india.jpg?b=1&s=170667a&w=0&k=20&c=lpS_fyIryS2EkH7BiyuRkANed485-h6224Rc2hz8QUc=",
+        "price": 35
+    },
+    {
+        "CategoryName": "Lunch",
+        "name": "Dal Khichdi",
+        "img": "https://media.istockphoto.com/id/537532795/photo/khichdi-close-up-on-a-plate-top-view-vertical.jpg?b=1&s=170667a&w=0&k=20&c=_r-It6t-q1JfQW3WB_to6-28Hoq6ymUIlTKOIWO2OIU=",
+        "price": 40
+    },
+
+
+    {
+        "CategoryName": "Chinese",
+        "name": "Veg Fried Rice",
+        "img": "https://media.istockphoto.com/id/1292617507/photo/tasty-veg-schezwan-fried-rice-served-in-bowl-over-a-rustic-wooden-background-indian-cuisine.jpg?b=1&s=170667a&w=0&k=20&c=ohkjvWpJyW0rIBaqrTkxzTb3gERm0rsqqMUGzZcBSoU=",
+        "price": 50
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Schewan Fried Rice",
+        "img": "https://media.istockphoto.com/id/1292617507/photo/tasty-veg-schezwan-fried-rice-served-in-bowl-over-a-rustic-wooden-background-indian-cuisine.jpg?b=1&s=170667a&w=0&k=20&c=ohkjvWpJyW0rIBaqrTkxzTb3gERm0rsqqMUGzZcBSoU=",
+        "price": 60
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Manchurian Rice",
+        "img": "https://media.istockphoto.com/id/1469654611/photo/panner-baby-corn-manchurian-a-crispy-and-crunchy-indo-chinese-vegetarian-dish-in-a-smooth.jpg?b=1&s=170667a&w=0&k=20&c=euWyXQAv1apzGb1Nkj27g7Esxfxyhfj7XuHoYAsWPv8=",
+        "price": 70
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Manchurian Schewan Rice",
+        "img": "https://media.istockphoto.com/id/1469654611/photo/panner-baby-corn-manchurian-a-crispy-and-crunchy-indo-chinese-vegetarian-dish-in-a-smooth.jpg?b=1&s=170667a&w=0&k=20&c=euWyXQAv1apzGb1Nkj27g7Esxfxyhfj7XuHoYAsWPv8=",
+        "price": 80
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Paneer Rice",
+        "img": "https://media.istockphoto.com/id/1091695210/photo/schezwan-paneer-fried-rice-with-szechuan-sauce-and-cottage-cheese-cubes-served-in-a-bowl-or.jpg?b=1&s=170667a&w=0&k=20&c=P6JKnb3VDvFjTzFloYCFER4XiiAIAACRmQX6mWi3j2A=",
+        "price": 70
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Schewan Paneer Rice",
+        "img": "https://media.istockphoto.com/id/1091695210/photo/schezwan-paneer-fried-rice-with-szechuan-sauce-and-cottage-cheese-cubes-served-in-a-bowl-or.jpg?b=1&s=170667a&w=0&k=20&c=P6JKnb3VDvFjTzFloYCFER4XiiAIAACRmQX6mWi3j2A=",
+        "price": 80
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Combination Rice",
+        "img": "https://media.istockphoto.com/id/476541008/photo/saffron-rice-with-vegetables-and-cilantro.jpg?b=1&s=170667a&w=0&k=20&c=Bgd5rv10VCBDleUCAIzJKz9LVE3-RyvJhYSf7zxtR6M=",
+        "price": 70
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Veg Noodles",
+        "img": "https://media.istockphoto.com/id/1292637257/photo/veg-hakka-noodles-a-popular-oriental-dish-made-with-noodles-and-vegetables-served-over-a.jpg?b=1&s=170667a&w=0&k=20&c=ZC5kUWJgdNv5Y2f_ZFekrfu5mejqhlbqXuep-HbXUZ4=",
+        "price": 50
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Schezwan Noodles",
+        "img": "https://media.istockphoto.com/id/1252605665/photo/chilli-garlic-hakka-noodles-in-black-bowl-isolated-on-white-background-indo-chinese.jpg?b=1&s=170667a&w=0&k=20&c=gIh_xq5YYqsMx5f3RujPaLBah1YB0gpYyk7wH5tPwVE=",
+        "price": 60
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Manchurian Noodles",
+        "img": "https://media.istockphoto.com/id/1292637075/photo/manchurian-noodles-a-popular-indo-chinese-dish-served-over-a-rustic-wooden-background.jpg?b=1&s=170667a&w=0&k=20&c=b2m6m-vDtKDgPWcqdxx_8kVrJadScHOwueUYrVJ7dzg=",
+        "price": 70
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Schezwan Manchurian Noodles",
+        "img": "https://media.istockphoto.com/id/1292637075/photo/manchurian-noodles-a-popular-indo-chinese-dish-served-over-a-rustic-wooden-background.jpg?b=1&s=170667a&w=0&k=20&c=b2m6m-vDtKDgPWcqdxx_8kVrJadScHOwueUYrVJ7dzg=",
+        "price": 80
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Paneer Noodles",
+        "img": "https://media.istockphoto.com/id/1091727854/photo/schezwan-hakka-noodles-with-paneer-or-cottage-cheese-served-in-a-bowl-selective-focus.jpg?b=1&s=170667a&w=0&k=20&c=KcXrjsuyuKFFNcQoWiHJNQHSeDZ9nRKAOQT6adXHKKw=",
+        "price": 70
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Schezwan Paneer Noodles",
+        "img": "https://media.istockphoto.com/id/1091727854/photo/schezwan-hakka-noodles-with-paneer-or-cottage-cheese-served-in-a-bowl-selective-focus.jpg?b=1&s=170667a&w=0&k=20&c=KcXrjsuyuKFFNcQoWiHJNQHSeDZ9nRKAOQT6adXHKKw=",
+        "price": 80
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Dry Manchurian",
+        "img": "https://media.istockphoto.com/id/1471677521/photo/delicious-indochinese-food-vegetable-manchurian-made-of-cabbages-and-vegetables.jpg?b=1&s=170667a&w=0&k=20&c=mID2O2QzhJE7nKkWMmJsG-wjp6msBIOLh5_qszVYhtg=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Paneer Chilli",
+        "img": "https://media.istockphoto.com/id/697316634/photo/spicy-paneer-or-chilli-paneer-or-paneer-tikka-or-cottage-cheese-served-in-white-dish-with.jpg?b=1&s=170667a&w=0&k=20&c=ivQCAl3dJ5IVIgVT6DMrajZY_JnfFwem9xoPLV_cG5M=",
+        "price": 60
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Chinese Bhel",
+        "img": "https://media.istockphoto.com/id/1249348344/photo/chinese-bhel-in-black-bowl-on-dark-slate-table-top-chinese-bhel-is-indo-chinese-cuisine.jpg?b=1&s=170667a&w=0&k=20&c=WNcqb-_ptwHWxpx271xN79PCpJdVahwGcGQnB4K4xqE=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Idli Chilli",
+        "img": "https://media.istockphoto.com/id/1432804346/photo/tea-time-food-masala-idli-or-tadka-fried-idly-is-a-very-tasty-dish-made-out-of-leftover-idlis.jpg?b=1&s=170667a&w=0&k=20&c=Zhsf2viVXOwE6nK79QG0FyIpwcO8uyYFBP2QGfqUCh8=",
+        "price": 45
+    },
+    {
+        "CategoryName": "Chinese",
+        "name": "Triple Rice",
+        "img": "https://4.bp.blogspot.com/-GLtwNe2WKTY/VwM8wkk_KUI/AAAAAAAAEGg/tAWsM-3KRSEjr5qR9xVGMM4KFhAExfVTw/s1600/triple%2Brice.jpg",
+        "price": 70
+    },
+
+
+    {
+        "CategoryName": "Snacks",
+        "name": "Chutney Sandwich",
+        "img": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuZHdpY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "price": 20
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Break Butter",
+        "img": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuZHdpY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "price": 20
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Veg Sandwich",
+        "img": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuZHdpY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "price": 25
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Veg Grilled Sandwich",
+        "img": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuZHdpY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "price": 30
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Veg Toast Sandwich",
+        "img": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuZHdpY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "price": 25
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Bread Butter Jam",
+        "img": "https://media.istockphoto.com/id/173483579/photo/toast-with-strawberry-jam.jpg?b=1&s=170667a&w=0&k=20&c=aj-YRhkhNdOKn8_sPsYbmLmvCbP9qQ9VMPNA9ieiLAc=",
+        "price": 25
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Masala Sandwich",
+        "img": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuZHdpY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "price": 30
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Aloo Sandwich",
+        "img": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuZHdpY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "price": 30
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Veg Mayo Sandwich",
+        "img": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuZHdpY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "price": 50
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Club Cheese Sandwich",
+        "img": "https://images.unsplash.com/photo-1665233272941-ae681d11fc06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNsdWIlMjBjaGVlc2UlMjBzYW5kd2ljaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+        "price": 40
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Cheese Toast Sandwich",
+        "img": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuZHdpY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "price": 45
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Mayo Cheese Sandwich",
+        "img": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuZHdpY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "price": 45
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Veg Burger",
+        "img": "https://media.istockphoto.com/id/1161931223/photo/vegetarian-burger-with-chickpea-cutlet-and-vegetables-veg-concept-copy-space.jpg?b=1&s=170667a&w=0&k=20&c=-uAti63w0sbaTcF6ikba0asVzB-yF7QUD9EKGh33ReM=",
+        "price": 30
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Cheese Burger",
+        "img": "https://media.istockphoto.com/id/1161931223/photo/vegetarian-burger-with-chickpea-cutlet-and-vegetables-veg-concept-copy-space.jpg?b=1&s=170667a&w=0&k=20&c=-uAti63w0sbaTcF6ikba0asVzB-yF7QUD9EKGh33ReM=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Bread Butter Toast",
+        "img": "https://media.istockphoto.com/id/1161931223/photo/vegetarian-burger-with-chickpea-cutlet-and-vegetables-veg-concept-copy-space.jpg?b=1&s=170667a&w=0&k=20&c=-uAti63w0sbaTcF6ikba0asVzB-yF7QUD9EKGh33ReM=",
+        "price": 30
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Samosa Toast",
+        "img": "https://media.istockphoto.com/id/1166833234/photo/veg-samosa-is-a-crispy-and-spicy-indian-triangle-shape-snack-which-has-crisp-outer-layer-of.jpg?b=1&s=170667a&w=0&k=20&c=IBldA9DfNQ_3smAiaMQqwuioEmH_1pGbMFBToE5rEDI=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Veg Pizza",
+        "img": "https://media.istockphoto.com/id/1478302709/photo/italian-veg-pizza-dish.jpg?b=1&s=170667a&w=0&k=20&c=l90CHbu5m4KSegNGUlhsfEaoXLgp678-tl6vz8Q_Dv0=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Veg Cheese Pizza",
+        "img": "https://media.istockphoto.com/id/1478302709/photo/italian-veg-pizza-dish.jpg?b=1&s=170667a&w=0&k=20&c=l90CHbu5m4KSegNGUlhsfEaoXLgp678-tl6vz8Q_Dv0=",
+        "price": 50
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Masala Toast Sandwich",
+        "img": "https://media.istockphoto.com/id/1085142602/photo/paneer-tikka-sandwich-is-a-popular-indian-version-of-sandwich-using-cottage-cheese-curry-with.jpg?b=1&s=170667a&w=0&k=20&c=2Wm7IwqGjgcWmtZBzGEjkyBlzsEieSnseGt55PcGF2I=",
+        "price": 45
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Masala Cheese Toast S?W",
+        "img": "https://media.istockphoto.com/id/1085142602/photo/paneer-tikka-sandwich-is-a-popular-indian-version-of-sandwich-using-cottage-cheese-curry-with.jpg?b=1&s=170667a&w=0&k=20&c=2Wm7IwqGjgcWmtZBzGEjkyBlzsEieSnseGt55PcGF2I=",
+        "price": 40
+    },
+
+
+    {
+        "CategoryName": "Chaat",
+        "name": "Sev Puri",
+        "img": "https://media.istockphoto.com/id/1445161890/photo/holding-indian-street-food-masala-chaat-sev-puri-dish.jpg?b=1&s=170667a&w=0&k=20&c=NnVtUnyXEjaOGZyoc_yfH51kfO4ANjiWTs6Xp7MwXwQ=",
+        "price": 30
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Bhel Puri",
+        "img": "https://media.istockphoto.com/id/1440089276/photo/bhel-puri-indian-food.jpg?b=1&s=170667a&w=0&k=20&c=-TnHQlhhbckNA5AKkz_MRr-lV_IMXUrJrr9BkvkKsOY=",
+        "price": 30
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Dahi Puri",
+        "img": "https://media.istockphoto.com/id/1428926221/photo/dahi-puri-a-snack-popular-in-india.jpg?b=1&s=170667a&w=0&k=20&c=EZK7fjMWkP1_aXY8mXaCBnWAzsBSSdNDm9J-EEk087k=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Masala Puri",
+        "img": "https://media.istockphoto.com/id/1264056882/photo/indian-aloo-tikki-or-potato-cutlet-is-made-out-of-boiled-potatoes-peas-and-various-curry.jpg?b=1&s=170667a&w=0&k=20&c=FMXAjqhF66Ah_acQmFrqwgSshEYiS4WA_vX3s012HBM=",
+        "price": 30
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Dahi Chaat",
+        "img": "https://media.istockphoto.com/id/1254962542/photo/aloo-tikki.jpg?b=1&s=170667a&w=0&k=20&c=ZzlUmSLd_2iKJFU4FXPJRqI_lsyp3IVuQXoW8qZ1FCM=",
+        "price": 35
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Dahi Ragda Chaat",
+        "img": "https://media.istockphoto.com/id/1254962542/photo/aloo-tikki.jpg?b=1&s=170667a&w=0&k=20&c=ZzlUmSLd_2iKJFU4FXPJRqI_lsyp3IVuQXoW8qZ1FCM=",
+        "price": 35
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Dahi Samosa Chaat",
+        "img": "https://media.istockphoto.com/id/1254962542/photo/aloo-tikki.jpg?b=1&s=170667a&w=0&k=20&c=ZzlUmSLd_2iKJFU4FXPJRqI_lsyp3IVuQXoW8qZ1FCM=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Samosa Chaat",
+        "img": "https://media.istockphoto.com/id/1398144537/photo/curd-samosa-chaat.jpg?b=1&s=170667a&w=0&k=20&c=M1O81dsH4mc65DIWBL-WOTZdtqlmZNTAEzgqwF5F4Qg=",
+        "price": 35
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Ragda Puri",
+        "img": "https://media.istockphoto.com/id/1155539788/photo/bombay-chat-food-in-group.jpg?b=1&s=170667a&w=0&k=20&c=9-oMwaygd7MrmnukEnJJ62cKQWRGfO2OGZw8ZvdoZXw=",
+        "price": 30
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Sukha Puri",
+        "img": "https://media.istockphoto.com/id/1055415424/photo/sukha-puri-also-known-as-dry-puri.jpg?b=1&s=170667a&w=0&k=20&c=mhYDjN2--XZtTf2-AN_906emLtIOA_x8XOWRiO-bfYA=",
+        "price": 25
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Dahi Papdi Chaat",
+        "img": "https://media.istockphoto.com/id/1024478146/photo/dahi-puri-chat-is-an-indian-road-side-snack-item-which-is-especially-popular-in-the-state-of.jpg?b=1&s=170667a&w=0&k=20&c=GJuPLD-vmgq6W1GKTw5QAmehRHvBW4_6LBKl8coj99Q=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Cheese Sukha Bhel",
+        "img": "https://media.istockphoto.com/id/1155432413/photo/bombay-chat-food-in-group.jpg?b=1&s=170667a&w=0&k=20&c=gRtJDdLXBgHDLG8NhbpXKmdmKsMvnnJXDdTrzHY4ABw=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Gilla Bhel",
+        "img": "https://media.istockphoto.com/id/1155432413/photo/bombay-chat-food-in-group.jpg?b=1&s=170667a&w=0&k=20&c=gRtJDdLXBgHDLG8NhbpXKmdmKsMvnnJXDdTrzHY4ABw=",
+        "price": 30
+    },
+    {
+        "CategoryName": "Chaat",
+        "name": "Sukha Bhel",
+        "img": "https://media.istockphoto.com/id/1155432413/photo/bombay-chat-food-in-group.jpg?b=1&s=170667a&w=0&k=20&c=gRtJDdLXBgHDLG8NhbpXKmdmKsMvnnJXDdTrzHY4ABw=",
+        "price": 25
+    },
+
+
+    {
+        "CategoryName": "Frankie",
+        "name": "Noodles Paneer Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 50
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Veg Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 20
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Veg Cheese Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 30
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Veg Schewan Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 30
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Veg Schezwan Cheese Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Veg Paneer Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Veg mix Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Paneer Cheese Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 50
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Veg Noodles Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 30
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Veg Cheese Noodles Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Manchurian Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Manchurian Cheese Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 50
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Mayo Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 35
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Mayo Cheese Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 45
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Mayo Paneer Cheese Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 55
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Schewan Cheese Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 40
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "Noodles Cheese Paneer Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 60
+    },
+    {
+        "CategoryName": "Frankie",
+        "name": "veg Dragon Frankie",
+        "img": "https://media.istockphoto.com/id/1024561200/photo/indian-veg-chapati-wrap-kathi-roll-served-in-a-plate-with-sauce-over-moody-background.jpg?b=1&s=170667a&w=0&k=20&c=Rzyr_b9QGzgokoy2YH4_aY4eUsEVhcHVbf7AIZCOSjs=",
+        "price": 35
+    },
+
+
+    {
+        "CategoryName": "BreakFast",
+        "name": "Idli Sambhar",
+        "img": "https://media.istockphoto.com/id/1424489331/photo/group-of-south-indian-food-like-masala-dosa-idli-wada-or-vada-sambar-served-over-banana-leaf.jpg?b=1&s=170667a&w=0&k=20&c=LY7sML7Rb3kcstpvCKlpqN9YKYdySBfgtVrMfuS2TMU=",
+        "price": 30
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Medu Vada",
+        "img": "https://media.istockphoto.com/id/1292633263/photo/indian-fried-snack-medu-vada-with-sambar-and-coconut-chutney-in-plate-on-rustic-wooden.jpg?b=1&s=170667a&w=0&k=20&c=xU7bEdQ7rP43RXNnHJ2l9siVxyrteXjapMwdbP0FXhg=",
+        "price": 40
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Upma",
+        "img": "https://media.istockphoto.com/id/1390124942/photo/upma.jpg?b=1&s=170667a&w=0&k=20&c=U4a_DRGNAGeofudZsX-2saFoSFceVlTf1rOJwCtnLMM=",
+        "price": 25
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Poha",
+        "img": "https://media.istockphoto.com/id/1302428127/photo/spicy-indian-snack-or-breakfast-poha-with-onion-and-peanuts.jpg?b=1&s=170667a&w=0&k=20&c=ymrPxYZtZJTck6FeUVIv1T0BcK0ULkelwOIP1-Qt2tk=",
+        "price": 20
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Sheera",
+        "img": "https://media.istockphoto.com/id/1444673758/photo/plain-semolina-suji-halwa-also-known-as-sweet-rava-sheera-or-shira.jpg?b=1&s=170667a&w=0&k=20&c=rTh98W-1cl9qpLkQ_jg85sjv-JKxGeRAXW5o_1gEz-g=",
+        "price": 30
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Sada Dosa",
+        "img": "https://media.istockphoto.com/id/1430343822/photo/south-indian-breakfast-dosa.jpg?b=1&s=170667a&w=0&k=20&c=L6OAUuYY7K0XDWHhCxHyxQhOFYW8Cg_hy2dVHNrcO6c=",
+        "price": 25
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Masala Dosa",
+        "img": "https://media.istockphoto.com/id/1413555828/photo/crispy-masala-dosa-is-a-popular-south-indian-food-item-served-with-tomato-chutney-coconut.jpg?b=1&s=170667a&w=0&k=20&c=PfzbAwmByWXutIZFykYlMWtnVneKktc5KyMB1DhiFv0=",
+        "price": 35
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Mysore Dosa",
+        "img": "https://media.istockphoto.com/id/1413555828/photo/crispy-masala-dosa-is-a-popular-south-indian-food-item-served-with-tomato-chutney-coconut.jpg?b=1&s=170667a&w=0&k=20&c=PfzbAwmByWXutIZFykYlMWtnVneKktc5KyMB1DhiFv0=",
+        "price": 35
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Mysore Masala Dosa",
+        "img": "https://media.istockphoto.com/id/1413555828/photo/crispy-masala-dosa-is-a-popular-south-indian-food-item-served-with-tomato-chutney-coconut.jpg?b=1&s=170667a&w=0&k=20&c=PfzbAwmByWXutIZFykYlMWtnVneKktc5KyMB1DhiFv0=",
+        "price": 40
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Onion Uttapa",
+        "img": "https://media.istockphoto.com/id/1479769638/photo/uthappam-oothappam-topped-with-onion-carrots-served-with-chutney-top-view.jpg?b=1&s=170667a&w=0&k=20&c=xS_kNWB-ew-ThGbQYFMjQccEvcCP7N2pfYmYMjysPLA=",
+        "price": 30
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Onion Tomato Uttapa",
+        "img": "https://media.istockphoto.com/id/1479769638/photo/uthappam-oothappam-topped-with-onion-carrots-served-with-chutney-top-view.jpg?b=1&s=170667a&w=0&k=20&c=xS_kNWB-ew-ThGbQYFMjQccEvcCP7N2pfYmYMjysPLA=",
+        "price": 35
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Cheese Sada Dosa",
+        "img": "https://media.istockphoto.com/id/1413555828/photo/crispy-masala-dosa-is-a-popular-south-indian-food-item-served-with-tomato-chutney-coconut.jpg?b=1&s=170667a&w=0&k=20&c=PfzbAwmByWXutIZFykYlMWtnVneKktc5KyMB1DhiFv0=",
+        "price": 40
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Cheese Masala Dosa",
+        "img": "https://media.istockphoto.com/id/1413555828/photo/crispy-masala-dosa-is-a-popular-south-indian-food-item-served-with-tomato-chutney-coconut.jpg?b=1&s=170667a&w=0&k=20&c=PfzbAwmByWXutIZFykYlMWtnVneKktc5KyMB1DhiFv0=",
+        "price": 45
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Cheese Onion Uttapa",
+        "img": "https://media.istockphoto.com/id/1479769638/photo/uthappam-oothappam-topped-with-onion-carrots-served-with-chutney-top-view.jpg?b=1&s=170667a&w=0&k=20&c=xS_kNWB-ew-ThGbQYFMjQccEvcCP7N2pfYmYMjysPLA=",
+        "price": 45
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Misal Pav",
+        "img": "https://media.istockphoto.com/id/679799968/photo/e-g-pav.jpg?b=1&s=170667a&w=0&k=20&c=XF4CgXMwh02VTH8eaVl2NmpOpb_I2TMXFW6-BW-ibPA=",
+        "price": 40
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Bhaji Pav",
+        "img": "https://media.istockphoto.com/id/1295630392/photo/indian-snack-pav-bhaji.jpg?b=1&s=170667a&w=0&k=20&c=Fhc7NPnfdcwqcMNbm_qwf7TZ0qB_SPjbLvQNVpac_wY=",
+        "price": 40
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Wada Usal",
+        "img": "https://media.istockphoto.com/id/1421271526/photo/spicy-moth-beans-curry-or-matki-chi-usal-is-a-spicy-indian-curry-made-out-of-sprouted-moth.jpg?b=1&s=170667a&w=0&k=20&c=p5D6Fol0c0lrGhmxwpWVCBjM4k9hrZ6raPwecxIQVj4=",
+        "price": 35
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Sabudana",
+        "img": "https://media.istockphoto.com/id/1263781092/photo/tasty-sabudana-khichadi-khichdi-is-an-indian-dish-made-from-soaked-sago-or%C2%A0tapioca-pearls.jpg?b=1&s=170667a&w=0&k=20&c=yb3t-dWJJRJRKRZAclFmebHSX8yBxAKrOKiphjjnjb8=",
+        "price": 30
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Chole Puri",
+        "img": "https://media.istockphoto.com/id/1446439743/photo/chole-bhature-or-chick-pea-curry.jpg?b=1&s=170667a&w=0&k=20&c=N6NqT8XkHhw1u7brUmRb2tmRSJt6mcMP-oXsxKRmvWI=",
+        "price": 40
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Chole Bhature",
+        "img": "https://media.istockphoto.com/id/1446439743/photo/chole-bhature-or-chick-pea-curry.jpg?b=1&s=170667a&w=0&k=20&c=N6NqT8XkHhw1u7brUmRb2tmRSJt6mcMP-oXsxKRmvWI=",
+        "price": 40
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Sabudana Khichdi",
+        "img": "https://media.istockphoto.com/id/907618200/photo/sabudana-khichdi-is-a-light-dish-made-with-sabudana.jpg?b=1&s=170667a&w=0&k=20&c=QgswovEl0D6_bwY2HjZPEigRQt8Q37AKuL61JgTj6h8=",
+        "price": 35
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Butter Dosa",
+        "img": "https://media.istockphoto.com/id/1369496813/photo/south-indian-dosa-or-thosai-with-podi.jpg?b=1&s=170667a&w=0&k=20&c=7y5RK3GZc_MI5EK9W02ZG4PLpXTXzU3mH60u2PLynv4=",
+        "price": 30
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Butter Masala Dosa",
+        "img": "https://media.istockphoto.com/id/1369496813/photo/south-indian-dosa-or-thosai-with-podi.jpg?b=1&s=170667a&w=0&k=20&c=7y5RK3GZc_MI5EK9W02ZG4PLpXTXzU3mH60u2PLynv4=",
+        "price": 40
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Samosa Pav",
+        "img": "https://i.pinimg.com/originals/9c/6a/70/9c6a7049e4dff1bc7c3422c40c3b83ca.jpg",
+        "price": 15
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Vada Pav",
+        "img": "https://media.istockphoto.com/id/1329213718/photo/vada-pav.jpg?b=1&s=170667a&w=0&k=20&c=mg_rqOSDW2-UYk6Tk33NjC6gXIcgQ9SWT1W1LsfTnYs=",
+        "price": 12
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Schewan Samosa Pav",
+        "img": "https://i.pinimg.com/originals/9c/6a/70/9c6a7049e4dff1bc7c3422c40c3b83ca.jpg",
+        "price": 18
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Cheese Pav",
+        "img": "https://media.istockphoto.com/id/1292641382/photo/cheese-vada-pav-mumbai-famous-vada-paav-is-an-indian-burger-potato-patty-is-deep-fried-and.jpg?b=1&s=170667a&w=0&k=20&c=SYZVqnNRITE9RrYYf4jY0GxX-gZv0TozvGB4_rVymiM=",
+        "price": 15
+    },
+    {
+        "CategoryName": "BreakFast",
+        "name": "Schezwan Vada Pav",
+        "img": "https://media.istockphoto.com/id/1292641382/photo/cheese-vada-pav-mumbai-famous-vada-paav-is-an-indian-burger-potato-patty-is-deep-fried-and.jpg?b=1&s=170667a&w=0&k=20&c=SYZVqnNRITE9RrYYf4jY0GxX-gZv0TozvGB4_rVymiM=",
+        "price": 15
+    }
+]
+
