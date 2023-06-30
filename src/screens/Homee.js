@@ -2,6 +2,9 @@ import React, { useState, useEffect } from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import Card from '../components/Card'
+import Sandwich from '../images/sandwich.jpg'
+import Puribhaji from '../images/purisabji.jpg'
+import Pizza from '../images/pizza.jpg'
 
 export default function Homee() {
   const [search, setSearch] = useState('');
@@ -35,13 +38,13 @@ export default function Homee() {
      {/* <button className="btn bg-warning my-2 my-sm-0 d-inline" type="submit">Search</button> */}</form>
       </div>
     <div className="carousel-item active">
-      <img src="https://source.unsplash.com/random/300*700/?pizza" style={{filter: "brightness{30%}"}} height={700} className="d-block w-100" alt="..."/>
+      <img src={Sandwich} style={{filter: "brightness{30%}"}} height={700} className="d-block w-100" alt="..."/>
     </div>
     <div className="carousel-item">
-      <img src="https://source.unsplash.com/random/300*700/?sandwich" style={{filter: "brightness{30%}"}} height={700} className="d-block w-100" alt="..."/>
+      <img src={Puribhaji} style={{filter: "brightness{30%}"}} height={700} className="d-block w-100" alt="..."/>
     </div>
     <div className="carousel-item">
-      <img src="https://source.unsplash.com/random/300*700/?friedrice" style={{filter: "brightness{30%}"}} height={700} className="d-block w-100" alt="..."/>
+      <img src={Pizza} style={{filter: "brightness{30%}"}} height={700} className="d-block w-100" alt="..."/>
     </div>
   </div>
   <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">

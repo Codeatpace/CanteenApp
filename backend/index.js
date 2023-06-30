@@ -22,6 +22,8 @@ app.use(express.json())
 app.use('/api', require("./Routes/CreateUser"))
 app.use('/api', require("./Routes/DisplayData"))
 app.use('/api', require("./Routes/OrderData"))
+app.use('/api', require("./Routes/CanteenSide"))
+app.use('/api', require("./Routes/AllOrder"))
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
   

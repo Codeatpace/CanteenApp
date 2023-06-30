@@ -11,7 +11,7 @@ export default function Carousel() {
       <button className="btn bg-warning my-2 my-sm-0 d-inline" type="submit">Search</button></form>
       </div>
     <div className="carousel-item active">
-      <img src="https://source.unsplash.com/random/300*700/?pizza" style={{filter: "brightness{30%}"}} height={700} className="d-block w-100" alt="..."/>
+      <img src="https://source.unsplash.com/random/300*700/?samosa" style={{filter: "brightness{30%}"}} height={700} className="d-block w-100" alt="..."/>
     </div>
     <div className="carousel-item">
       <img src="https://source.unsplash.com/random/300*700/?sandwich" style={{filter: "brightness{30%}"}} height={700} className="d-block w-100" alt="..."/>

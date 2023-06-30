@@ -21,10 +21,21 @@ body('name').isLength({ min: 5 }),
     let secPassword = await bcrypt.hash(req.body.password, salt);
 
     try {
+        let userRole = 'admin'
+        if(req.body.email.includes('@SESS.COM')){
+          userRole = 'student'
+        }
+        else if(req.body.email.includes('@lsraheja.org')){
+          userRole = 'teacher'
+        }
+        else{
+          userRole = 'admin'
+        }
         await User.create({
             name: req.body.name,
             email: req.body.email, 
-            password: secPassword
+            password: secPassword,
+            userRole: userRole
         })
         res.json({success:true});
     } catch (error) {

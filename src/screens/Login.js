@@ -14,8 +14,21 @@ export default function Login() {
       },
       body: JSON.stringify({email:credentials.email, password:credentials.password})
     });
+    const response2 = await fetch('http://localhost:5000/api/canteenside', {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({email:credentials.email})
+    });
+
     const json = await response.json();
-    console.log(json);
+
+    const json2 = await response2.json();
+
+    // console.log(json);
+    // console.log(json2)
+
     if(!json.success){
       alert("Enter valid credentilas")
     }
@@ -23,7 +36,16 @@ export default function Login() {
       localStorage.setItem("userEmail", credentials.email)
       localStorage.setItem("authToken", json.authToken)
       console.log(localStorage.getItem("authToken"));
+      // if((credentials.email).contains('@gmail.com')){
+      //   navigate('/canteen')
+      // }
+      if(json2.message === 'Admin Page'){
+        navigate('/canteen')
+      }
+      else{
       navigate('/')
+      }
+      
     }
   }
   const onChange = (e) => {
