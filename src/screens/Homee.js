@@ -4,7 +4,7 @@ import Footer from '../components/Footer'
 import Card from '../components/Card'
 import Sandwich from '../images/sandwich.jpg'
 import Puribhaji from '../images/purisabji.jpg'
-import Pizza from '../images/pizza.jpg'
+import Pizza from '../images/pizza.jpg' 
 
 export default function Homee() {
   const [search, setSearch] = useState('');
@@ -77,6 +77,6 @@ export default function Homee() {
                 </div>)}):" "}
         </div>
         <div><Footer/></div>
-    </div>
+    </div> 
   )
   }

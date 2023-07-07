@@ -21,7 +21,7 @@ export default function Navbar() {
         <div className="container-fluid">
           <b>
             <Link className="navbar-brand fs-1 fst-italic" to="/">
-              Canteen App
+              Savoury
             </Link>{" "}
           </b>
           <button

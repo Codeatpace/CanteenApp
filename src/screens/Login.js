@@ -42,7 +42,7 @@ export default function Login() {
       if(json2.message === 'Admin Page'){
         navigate('/canteen')
       }
-      else{
+      else if(json2.message === "UserPge"){
       navigate('/')
       }
       

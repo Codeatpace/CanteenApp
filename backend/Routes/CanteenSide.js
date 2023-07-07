@@ -13,7 +13,7 @@ router.post('/canteenside', async(req, res) => {
             res.json({message:"Admin Page"})
         }
         else{
-            res.json({message:"UserPge"})
+            res.json({message:"UserPge"}) 
         }
         console.log(myData.userRole)
     } catch (error) {

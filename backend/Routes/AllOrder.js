@@ -4,12 +4,12 @@ const Order = require('../models/Orders')
 
 router.post('/allOrder', async(req, res) => {
     try {
-        let myData = await Order.findOne({'email': req.body.email})
-        res.json({orderData: myData})
+        // console.log("All orders page")
+        res.send([global.orders])
     } catch (error) {
         res.send("Server Error", error.message)
     }
-})
+}) 
 
 
 module.exports = router;

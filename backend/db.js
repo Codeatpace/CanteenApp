@@ -14,6 +14,10 @@ const mongoDB = async () => {
         const data = await collection.find().toArray();
         const cat = mongoose.connection.db.collection('foodCategory');
         const catData = await cat.find().toArray();
+        const orders = mongoose.connection.db.collection('orders');
+        const orderss = await orders.find().toArray();
+        global.orders = orderss;
+        // console.log(orderss)
         global.food_items = data; 
         //console.log(data);
         global.foodCategory = catData; 
